@@ -1,11 +1,15 @@
 ### Hi there 👋
 
+I’m currently working on my doctoral dissertation on **Anthropogenic effects on ocelot populations in the Maya Biosphere Reserve in Guatemala**. I am currently on my fourth year and I'm a PhD candidate at the University of Nebraska Lincoln. 
+
+
+
 <!--
 **GabsPalomo/GabsPalomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my doctoral dissertation on **Anthropogenic effects on ocelot populations in the Maya Biosphere Reserve in Guatemala**. I am currently on my fourth year and I'm a PhD candidate at the University of Nebraska Lincoln. 
+- 🔭 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
