@@ -2,6 +2,7 @@
 
 I’m currently working on my doctoral dissertation on **Anthropogenic effects on ocelot populations in the Maya Biosphere Reserve in Guatemala**. I am currently on my fourth year and I'm a PhD candidate at the University of Nebraska Lincoln. 
 
+I'm a Carnivore Ecologist who also dabbles a little into Quantitative Ecology. I love to know everything that happens under the hood of statistical models and analysis. 
 
 
 <!--
