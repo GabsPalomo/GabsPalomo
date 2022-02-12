@@ -4,7 +4,7 @@ I’m currently working on my doctoral dissertation on **Anthropogenic effects o
 
 I'm a Carnivore Ecologist who also dabbles a little into Quantitative Ecology. I love to know everything that happens under the hood of statistical models and analysis. 
 
-[![Gabby's github stats](https://github-readme-stats.vercel.app/api?username=gabbspalomo&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Gabby's github stats](https://github-readme-stats.vercel.app/api?username=gabspalomo&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
