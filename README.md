@@ -20,4 +20,8 @@ I'm a Carnivore Ecologist who also dabbles a little into Quantitative Ecology. I
 
 [![R][1.2][2]
 
-[1.2]: https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
+https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
+
+https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
+
+http://ForTheBadge.com/images/badges/built-with-science.svg
