@@ -10,7 +10,7 @@ You can find me on [![Twitter][1.2]][1]
 
 <!-- Icons -->
 
-[1.2]: https://imgur.com/ZQpLe10 (twitter icon)
+[1.2]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white (twitter icon)
 
 <!-- Links to your social media accounts -->
 
