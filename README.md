@@ -1,3 +1,5 @@
+![](http://ForTheBadge.com/images/badges/built-with-science.svg)
+
 ### Hi there 👋
 
 I’m currently working as a postdoctoral fellow at Kansas State University in Dr Adam Ahler's lab. We are working on local and landscape scale covariates of mammal distributions on carnivores and lagomorphs in Kansas. I got my PhD in Applied Ecology at the University of Nebraska Lincoln in January of 2022. My dissertation was on **Anthropogenic effects on ocelot populations in the Maya Biosphere Reserve in Guatemala**. 
@@ -20,4 +22,4 @@ I'm a Carnivore Ecologist who also dabbles a little into Quantitative Ecology. I
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) 
 
-![built](http://ForTheBadge.com/images/badges/built-with-science.svg)
+![Gabbys's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabsPalomo&show_icons=true&theme=default)
