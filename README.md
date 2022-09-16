@@ -9,7 +9,7 @@ I'm a Carnivore Ecologist who also dabbles a little into Quantitative Ecology. I
 <!-- Actual text -->
 
 [![Twitter][1.2]][1]
-[![Gmail][1.3]]
+[![Gmail][1.3]][2]
 
 <!-- Icons -->
 
@@ -20,6 +20,7 @@ I'm a Carnivore Ecologist who also dabbles a little into Quantitative Ecology. I
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/GabbsPalomo
+[2]: mailto:gabriella.palomo@gmail.com
 
 ### I code in
 
