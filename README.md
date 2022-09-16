@@ -14,6 +14,8 @@ I'm a Carnivore Ecologist who also dabbles a little into Quantitative Ecology. I
 
 [1.2]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white (twitter icon)
 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aboelkassem.me@gmail.com)](mailto:gabriella.palomo@gmail.com)
+
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/GabbsPalomo
