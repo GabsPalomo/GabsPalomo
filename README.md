@@ -10,6 +10,7 @@ I'm a Carnivore Ecologist who also dabbles a little into Quantitative Ecology. I
 
 [![Twitter][1.2]][1]
 [![Gmail][1.3]][2]
+[![Website][1.4]][3]
 
 <!-- Icons -->
 
@@ -17,10 +18,13 @@ I'm a Carnivore Ecologist who also dabbles a little into Quantitative Ecology. I
 
 [1.3]: https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white (mailto:gabriella.palomo@gmail.com)
 
+[1.4]: https://img.shields.io/badge/<website>-<gabspalomo.github.io>-<blue>?style=for-the-badge&logo=appveyor (gabspalomo.github.io)
+
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/GabbsPalomo
 [2]: mailto:gabriella.palomo@gmail.com
+[3]: gabspalomo.github.io 
 
 ### I code in
 
