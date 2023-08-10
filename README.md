@@ -2,9 +2,9 @@
 
 ### Hi there 👋
 
-I’m currently working as a postdoctoral fellow at Kansas State University in Dr Adam Ahler's lab. We are working on local and landscape scale covariates of mammal distributions on carnivores and lagomorphs in Kansas. I got my PhD in Applied Ecology at the University of Nebraska Lincoln in January of 2022. My dissertation was on **Anthropogenic effects on ocelot populations in the Maya Biosphere Reserve in Guatemala**. 
+I’m currently working as a postdoctoral fellow at the University of Maryland in Dr Travis Gallo's lab. We are working on spatiotemporal distributions of white-tailed deer and humans using camera trap data and human mobility data. I got my PhD in Applied Ecology at the University of Nebraska Lincoln in January of 2022. My dissertation was on **Anthropogenic effects on ocelot populations in the Maya Biosphere Reserve in Guatemala**. 
 
-I'm a Carnivore Ecologist who also dabbles a little into Quantitative Ecology. I love to know everything that happens under the hood of statistical models and analysis. I love everything there is about R and I enjoy learning new ways to make my code more efficient or my documents more aesthetically pleasing. 
+I'm a Carnivore Ecologist who also dabbles a little into Quantitative Ecology. I love to know everything that happens under the hood of statistical models and analysis. I love everything there is about R and I enjoy learning new ways to make my code more efficient and my graphs more aesthetically pleasing. 
 
 <!-- Actual text -->
 
