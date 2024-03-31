@@ -28,6 +28,6 @@ I'm a Carnivore Ecologist who also dabbles a little into Quantitative Ecology. I
 
 ### I code in
 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) 
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![QGIS](<img alt="Qgis" src="https://img.shields.io/badge/Qgis-589632?logo=Qgis&logoColor=white&style=plastic" height="25"/>)
 
 ![Gabbys's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabsPalomo&show_icons=true&theme=default)
